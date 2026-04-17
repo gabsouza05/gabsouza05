@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gabsouza05/SEU-REPO/main/capa.png" />
+  <img src="https://raw.githubusercontent.com/gabsouza05/gabsouza05/main/capa.png" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=D6CFC7&height=120"/>
