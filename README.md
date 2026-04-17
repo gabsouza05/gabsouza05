@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://github.com/gabsouza05/gabsouza05/blob/main/capa.png" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8B5E3C&height=120"/>
+
 <h1 align="center">✨ Gabrielly Souza ✨</h1>
 
 <p align="center">
