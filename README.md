@@ -8,7 +8,6 @@
 
 <p align="center">
 💻 Estudante de Desenvolvimento de Sistemas <br>
-🚀 Focada em crescer na área tech
 </p>
 
 ---
