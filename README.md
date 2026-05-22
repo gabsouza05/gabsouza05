@@ -26,21 +26,29 @@
 
 ---
 
-### 📊 Estatísticas
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabsouza05&show_icons=true&theme=rose_pine"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabsouza05&layout=compact&theme=rose_pine"/>
-</p>
-
----
-
 ## 🐍 Contribuições
 
 ![Snake animation](https://raw.githubusercontent.com/gabsouza05/gabsouza05/gh-pages/github-contribution-grid-snake.svg)
 
 ---
 
-### 📫 Contato
-- ✉️ gabcgsouza@gmail.com  
-- 🐙 github.com/gabsouza05
+## 🔥 Sequência de Contribuições
+<p align="center"> <img src="https://streak-stats.demolab.com?user=gabsouza05&theme=rose-pine"/> </p>
 
+---
+
+### 📫 Contato
+
+<p align="center">
+  <a href="mailto:gabcgsouza@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-f8c8dc?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/gabrielly-cristina-gomes-de-souza-8592022a8">
+    <img src="https://img.shields.io/badge/LinkedIn-d6cfc7?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/gabsouza05">
+    <img src="https://img.shields.io/badge/GitHub-eadfda?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
